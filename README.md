@@ -17,6 +17,7 @@ This repository is structured as follow:
    * example-3.ipynb: Perform simulations to compute orthobaric densities for ice ih.
    * example-4.ipynb: Perform simulations to compute isothermal compressibility.
    * example-5.ipynb: Perform simulations to compute enthalpy of melting.
+   * example-6.ipynb: Perform simulations to compute self-diffusion coefficients.
  
  * Disclaimers:
    * More details about the data set can be found [here](https://aip.scitation.org/doi/full/10.1063/5.0016004) and [here](https://zenodo.org/record/4004590#.YbB2H9DMJPY).
