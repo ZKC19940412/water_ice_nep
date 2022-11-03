@@ -11,7 +11,7 @@ This repository is structured as follow:
   * data.xyz: Data set used for potential-fitting,  in [extended xyz format](https://wiki.fysik.dtu.dk/ase/ase/io/formatoptions.html)
   * nep.in: Input file used to develop the NEP potential
   
-* colab-examples:
+* notebook-examples:
    * example-1.ipynb: Fit a NEP potential and make single-point predictions with pre-train model
    * example-2.ipynb: Perform simulations for runtime profiling, computing RDFs and vDOS.
    * example-3.ipynb: Perform simulations to compute orthobaric densities for ice ih.
