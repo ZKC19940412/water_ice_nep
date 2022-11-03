@@ -22,4 +22,4 @@ This repository is structured as follow:
  * Disclaimers:
    * More details about the data set can be found [here](https://aip.scitation.org/doi/full/10.1063/5.0016004) and [here](https://zenodo.org/record/4004590#.YbB2H9DMJPY).
    * The colab notebook examples are compactable with [GPUMD](https://github.com/brucefan1983/GPUMD) and TDMDpy.
-   * Parameters for simulations and potential fittings used in these examples are adopted so that each example can be executed in a reasonable amount of time, please refer to the publications for all relevant parameters to reproduce the results.
+   * Parameters for simulations and potential fittings used in these examples are modified so that each example can be executed in a reasonable amount of time, please refer to the publications for all relevant parameters to reproduce the results.
