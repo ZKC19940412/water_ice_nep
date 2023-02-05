@@ -1,6 +1,7 @@
 # water_ice_nep
 Supplement files of paper "Towards Accurate, Transferable and Scalable Water/Ice Model with Neuroevolution-Potential" .
 
+<img src="TOC_water_ice_nep.PNG" width="450">
 
 This repository is structured as follow:
 * nep-pre-train-model:
