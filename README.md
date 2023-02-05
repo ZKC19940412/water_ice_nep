@@ -1,5 +1,5 @@
 # water_ice_nep
-Supplement files of paper "Towards Accurate, Transferable and Scalable Water/Ice Model with Neuroevolution-Potential" .
+SI of paper "Towards Accurate, Transferable and Scalable Water/Ice Model with Neuroevolution-Potential" .
 
 <center>
 <img src="TOC_water_ice_nep.PNG" width="450">
