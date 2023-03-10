@@ -17,53 +17,28 @@ atom_modify map array sort 0 2.0
 
 
 boundary     p p p
-#newton off
 read_data    conf_start.lmp
 
 
 pair_style nep nep.txt
 pair_coeff * * 
-#pair_coeff * * zero
 
 
 mass         1 1.008
 mass 	     2 15.999
 
 ################################################################################
-# Set up rl4csp potential, define temperature to compute , set time steps
+# Set up ipi run
 ################################################################################
-
-variable dt equal 2e-4
 
 
 fix 1 all ipi localhost 60637
-#thermo 1
-#compute         peratom all pe/atom
-
-#thermo_style custom time temp pe ke etotal press vol density lx ly lz
-#timestep ${dt}
 
 ###############################################################################
 # Parameters for neighbor list
 ###############################################################################
 
 neighbor 1.0 bin
-#neigh_modify once no every 1 delay 0 check yes
-
-
-#########################################################################################################
-# Specifications for NVT and NVE simulations
-#########################################################################################################
-
-#velocity all create 300 253453 mom yes dist gaussian
-#fix nve all nve
-
-###############################################################################
-# Trajectory output - whole system
-###############################################################################
-
-#dump 1 all custom 1 water.lammpstrj type id x y z fx fy fz c_peratom
-#dump_modify 1 format line "%d %d %20.9g %20.9g %20.9g %20.9g %20.9g %20.9g %20.9g"
 
 ###############################################################################
 # RUN MD
