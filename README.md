@@ -21,7 +21,12 @@ This repository is structured as follow:
    * example-4.ipynb: Perform simulations to compute isothermal compressibility.
    * example-5.ipynb: Perform simulations to compute enthalpy of melting.
    * example-6.ipynb: Perform simulations to compute self-diffusion coefficients.
- 
+
+* water-pimd-input-files:
+   * input3.xml: Parameter file for the PIMD run.
+   * run.in: LAMMPS-PIMD input file.
+   * compile_lammps_nep.sh: Bash script to compile NEP potential with LAMMPS.
+
  * Disclaimers:
    * More details about the data set can be found [here](https://aip.scitation.org/doi/full/10.1063/5.0016004) and [here](https://zenodo.org/record/4004590#.YbB2H9DMJPY).
    * The colab notebook examples are compactable with [GPUMD](https://github.com/brucefan1983/GPUMD) and TDMDpy.
