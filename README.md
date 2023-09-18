@@ -1,5 +1,6 @@
 # water_ice_nep
-SI of paper "Towards Accurate, Transferable and Scalable Water/Ice Model with Neuroevolution-Potential" .
+SI of paper "Towards an Accurate, Transferable, and Scalable
+Water Model with Neuroevolution Potentials" .
 
 <p align="center">
 <img src="TOC_water_ice_nep.PNG" width="450">
@@ -15,7 +16,7 @@ This repository is structured as follow:
   * nep.in: Input file used to develop the NEP potential
   
 * notebook-examples:
-   * example-1.ipynb: Fit a NEP potential and make single-point predictions with pre-train model
+   * example-1.ipynb: Fit a NEP potential and make single-point predictions with pre-train model.
    * example-2.ipynb: Perform simulations for runtime profiling, computing RDFs and vDOS.
    * example-3.ipynb: Perform simulations to compute orthobaric densities for ice ih.
    * example-4.ipynb: Perform simulations to compute isothermal compressibility.
