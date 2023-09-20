@@ -3,7 +3,7 @@ SI of paper "Towards an Accurate, Transferable, and Scalable
 Water Model with Neuroevolution Potentials" .
 
 <p align="center">
-<img src="TOC_water_ice_nep.PNG" width="450">
+<img src="TOC_water_ice_nep.png" width="450">
 </p>
    
 This repository is structured as follow:
