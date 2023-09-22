@@ -1,6 +1,5 @@
 # water_ice_nep
-SI of paper "Towards an Accurate, Transferable, and Scalable
-Water Model with Neuroevolution Potentials" .
+SI of paper "Thermodynamics of Water and Ice from a Fast and Scalable First-Principles Neuroevolution Potential" .
 
 <p align="center">
 <img src="TOC_water_ice_nep.png" width="450">
