@@ -20,7 +20,6 @@ This repository is structured as follow:
    * example-3.ipynb: Perform simulations to compute orthobaric densities for ice ih.
    * example-4.ipynb: Perform simulations to compute isothermal compressibility.
    * example-5.ipynb: Perform simulations to compute enthalpy of melting.
-   * example-6.ipynb: Perform simulations to compute self-diffusion coefficients.
 
 * water-pimd-input-files:
    * input3.xml: Parameter file for the PIMD run.
