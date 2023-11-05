@@ -26,7 +26,7 @@ This repository is structured as follow:
    * run.in: LAMMPS-PIMD input file.
    * compile_lammps_nep.sh: Bash script to compile NEP potential with LAMMPS.
 
-* D2O_simulations:  Essential input files to reproduce calcualtions shown in figure 5 to 8.
+* D2O-simulations:  Essential input files to reproduce calcualtions shown in figure 5 to 8.
 
  * Disclaimers:
    * More details about the data set can be found [here](https://aip.scitation.org/doi/full/10.1063/5.0016004) and [here](https://zenodo.org/record/4004590#.YbB2H9DMJPY).
